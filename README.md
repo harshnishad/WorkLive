@@ -6,13 +6,12 @@
 <li><strong>HARSH NISHAD</strong></li>
 <li><strong>RAUNAK PANDEY</strong></li>
 <li><strong>ASHUTOSH DIXIT</strong></li>
-<li><strong>PRINCE ARYA</strong></li>
+<li><strong>PRINCE KUMAR ARYA</strong></li>
 
 
 <h1> Important Instructions for Collaberator </h1>
 
 ```
-main step don't just copy
 step 1-git init
 step 2-git clone https://github.com/harshnishad/WorkLive-Web-Application.git
 step 3-git pull
