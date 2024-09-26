@@ -14,7 +14,7 @@
 ```
 main step don't just copy
 step 1-git init
-step 2-git clone https://github.com/harshnishad/WorkLive.git
+step 2-git clone https://github.com/harshnishad/WorkLive-Web-Application.git
 step 3-git pull
 step 4-git add .
 step 5-git commit -m "Work-you-have-done"
