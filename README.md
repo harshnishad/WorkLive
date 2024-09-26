@@ -9,10 +9,14 @@
 <li><strong>PRINCE ARYA</strong></li>
 
 
-<h1> Important Instructions To Run </h1>
+<h1> Important Instructions for Collaberator </h1>
 
 ```
 step 1-git init
 step 2-git clone https://github.com/harshnishad/WorkLive.git
-
+step 3-git pull
+step 4-git add .
+step 5-git commit -m "Work-you-have-done"
+step 6-git push origin main
 ```
+
