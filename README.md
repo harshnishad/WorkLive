@@ -1,6 +1,6 @@
 <h1>WorkLive</h1>
 <a href="https://github.com/Tanu-N-Prabhu/Python/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=harshnishad/WorkLive"/>
+  <img src="https://contrib.rocks/image?repo=harshnishad/WorkLive-Web-Application"/>
 </a>
 <h2>Team Members:</h2>
 <li><strong>HARSH NISHAD</strong></li>
