@@ -8,6 +8,8 @@
 <li><strong>ASHUTOSH DIXIT</strong></li>
 <li><strong>PRINCE KUMAR ARYA</strong></li>
 
+<br />
+<p>Project Overview PPT:<a href="https://gamma.app/docs/WorkLive-is-a-web-based-project-obtm2obuqdji339">  <span>Tap Here</span></a></p>
 
 <h1> Important Instructions for Collaberator </h1>
 
